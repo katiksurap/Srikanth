@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.demo.BootDemoApplicationTests" time="0.16" tests="1" errors="0" skipped="0" failures="0">
+<testsuite name="com.example.demo.BootDemoApplicationTests" time="0.112" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_144\jre\bin"/>
@@ -26,7 +26,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Users\INFOVITY-LT-129\Documents\workspace-sts-3.7.3.RELEASE_Sai\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf79172437230189340.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\INFOVITY-LT-129\Documents\workspace-sts-3.7.3.RELEASE_Sai\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf5511102915571191051.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_144\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk1.7.0_79/bin/../jre/bin/server;C:/Program Files/Java/jdk1.7.0_79/bin/../jre/bin;C:/Program Files/Java/jdk1.7.0_79/bin/../jre/lib/amd64;D:\app\ADORB\product\12.2.0\dbhome_1\bin;C:\SAP\ASE-16_0\jobscheduler\bin;C:\SAP\ASE-16_0\dll;C:\SAP\ASE-16_0\bin;C:\SAP\COCKPIT-4\bin;C:\SAP\DataAccess64\ADONET\dll;C:\SAP\DataAccess\ADONET\dll;C:\SAP\DataAccess64\ODBC\dll;C:\SAP\DataAccess\ODBC\dll;C:\SAP\OCS-16_0\lib3p64;C:\SAP\OCS-16_0\lib3p;C:\SAP\OCS-16_0\dll;C:\SAP\OCS-16_0\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Java\jdk1.7.0_79\bin;C:\Users\INFOVITY-LT-129\Downloads\instantclient-basic-windows.x64-12.2.0.1.0\instantclient_12_2;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\PuTTY\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\dotnet\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MongoDB\Server\3.4\bin;C:\Users\INFOVITY-LT-129\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Microsoft VS Code\bin;C:\Users\INFOVITY-LT-129\Downloads\spring-tool-suite-3.7.3.RELEASE-e4.5.2-win32-x86_64\sts-bundle\sts-3.7.3.RELEASE;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -60,5 +60,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="contextLoads" classname="com.example.demo.BootDemoApplicationTests" time="0.16"/>
+  <testcase name="contextLoads" classname="com.example.demo.BootDemoApplicationTests" time="0.112"/>
 </testsuite>
